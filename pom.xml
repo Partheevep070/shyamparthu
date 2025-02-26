@@ -111,6 +111,7 @@
   </plugins>
   </build>
 <!-- Nexus deployment -->
+  <!-- Nexus deployment -->
   <distributionManagement>
         <repository>
             <id>maven-releases</id>
